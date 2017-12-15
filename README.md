@@ -7,7 +7,7 @@ if input=="Afghanistan":
  print("continent:asia       capital:Kabul        population:31.11 million       size:647,500 sq km       main religion:islam") 
  
 elif input=="Argentina":
- print("continent:so     capital:        population:      size:     main religion:Christianity") 
+ print("continent:South America     capital:Argentina       population:42.61 million      size:2.74 million sq km	    main religion:Christianity") 
  
 elif input=="":
  print("continent:       capital:        population:      size:     main religion:") 
