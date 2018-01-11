@@ -28,9 +28,48 @@ elif input=="Denmark":
  print("continent:Europe       capital:Copenhagen       langauge:Danish     population:5.74 million      size:42,000 sq km     main religion:Church of Denmark") 
  
   
-elif input=="":
- print("continent:       capital:       langauge:     population:      size:     main religion:") 
+elif input=="England":
+ print("continent:Europe       capital:London       langauge:English     population:55.26 million        size:130,000 sq km     main religion:Church of England") 
  
   
-elif input=="":
- print("continent:       capital:       langauge:     population:      size:     main religion:") 
+elif input=="France":
+ print("continent:Europe       capital:Paris       langauge:French     population:67.2 million     size:640,000 sq km     main religion:Christianity") 
+
+elif input=="Greece":
+ print("continent:Greece       capital:Athens      langauge:Greek    population:11.18 million       size:131,000 sq km     main religion:	Eastern Orthodoxy") 
+ 
+ elif input=="Germany":
+ print("continent:Europe       capital:Berlin      langauge:German    population: 82.34 million      size:	357,000 sq km     main religion:Christianity") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ 
+ elif input=="":
+ print("continent:       capital:      langauge:    population:      size:     main religion:") 
