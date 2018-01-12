@@ -42,25 +42,25 @@ elif input=="Greece":
  print("continent:Europe       capital:Berlin      langauge:German    population: 82.34 million      size:	357,000 sq km     main religion:Christianity") 
  
  elif input=="Italy":
- print("continent:Europe       capital:Rome      langauge:Italien    population:	60.56 million     size:     main religion:") 
+ print("continent:Europe       capital:Rome      langauge:Italien    population:	60.56 million     size:301,000 sq km     main religion:Christianity") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="India":
+ print("continent:Asia       capital:New Delhi      langauge:English    population:1.34 billion      size:3,287,000 sq km     main religion:Hinduism") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="Ireland":
+ print("continent:Europe       capital:Dublin      langauge:English    population:4.7 million       size:70,000 sq km     main religion:Christianity") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="Japan":
+ print("continent:Asia       capital:Tokyo      langauge:Japanese    population:126.67 million      size:	377,000 sq km     main religion:Shinto") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="South Korea":
+ print("continent:Asia       capital:Seoul      langauge:Korean    population:51.46 million      size:100,000 sq km     main religion:Christianity") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="Mexico":
+ print("continent:North America       capital:Mexico city      langauge:Spanish    population:	123.67 million      size:1,972,000 sq km     main religion:Christianity") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="Norway":
+ print("continent:Europe       capital:Oslo      langauge:Norwegian    population:5.26 million      size:323,000 sq km    main religion:") 
  
  elif input=="":
  print("continent:       capital:      langauge:    population:      size:     main religion:") 
