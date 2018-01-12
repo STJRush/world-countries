@@ -1,6 +1,9 @@
 print("this website will give you informatio about a country of your choice")
+
 print("choose your country")
+
 print("make sure the country starts with a capital letter")
+
 input=input()
 
 if input=="Afghanistan":
