@@ -60,13 +60,13 @@ elif input=="Greece":
  print("continent:North America       capital:Mexico city      langauge:Spanish    population:	123.67 million      size:1,972,000 sq km     main religion:Christianity") 
  
  elif input=="Norway":
- print("continent:Europe       capital:Oslo      langauge:Norwegian    population:5.26 million      size:323,000 sq km    main religion:") 
+ print("continent:Europe       capital:Oslo      langauge:Norwegian    population:5.26 million      size:323,000 sq km    main religion:	Evangelical Lutheran Church") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="Netherlands":
+ print("continent:Europe       capital:Amsterdam      langauge:Dutch    population:17.17 million       size:41,000 sq km     main religion:Christianity") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="New Zealand":
+ print("continent:Australia       capital:Wellington      langauge:English    population:4.84 million      size:268,000 sq km     main religion:Christianity") 
  
  elif input=="":
  print("continent:       capital:      langauge:    population:      size:     main religion:") 
