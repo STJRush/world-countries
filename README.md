@@ -6,7 +6,7 @@ print("make sure the country starts with a capital letter")
 
 input=input()
 
-elif input=="Argentina":
+if input=="Argentina":
  print("continent:South America     capital:Argentina    langauge:Spanish   population:42.61 million      size:2,740,000 sq km     main religion:Christianity") 
  
 elif input=="Australia":
@@ -38,39 +38,36 @@ elif input=="France":
 elif input=="Greece":
  print("continent:Greece       capital:Athens      langauge:Greek    population:11.18 million       size:131,000 sq km     main religion:	Eastern Orthodoxy") 
  
- elif input=="Germany":
+elif input=="Germany":
  print("continent:Europe       capital:Berlin      langauge:German    population: 82.34 million      size:	357,000 sq km     main religion:Christianity") 
  
- elif input=="Italy":
+elif input=="Italy":
  print("continent:Europe       capital:Rome      langauge:Italien    population:	60.56 million     size:301,000 sq km     main religion:Christianity") 
  
- elif input=="India":
+elif input=="India":
  print("continent:Asia       capital:New Delhi      langauge:English    population:1.34 billion      size:3,287,000 sq km     main religion:Hinduism") 
  
- elif input=="Ireland":
+elif input=="Ireland":
  print("continent:Europe       capital:Dublin      langauge:English    population:4.7 million       size:70,000 sq km     main religion:Christianity") 
  
- elif input=="Japan":
+elif input=="Japan":
  print("continent:Asia       capital:Tokyo      langauge:Japanese    population:126.67 million      size:	377,000 sq km     main religion:Shinto") 
  
- elif input=="South Korea":
+elif input=="South Korea":
  print("continent:Asia       capital:Seoul      langauge:Korean    population:51.46 million      size:100,000 sq km     main religion:Christianity") 
  
- elif input=="Mexico":
+elif input=="Mexico":
  print("continent:North America       capital:Mexico city      langauge:Spanish    population:	123.67 million      size:1,972,000 sq km     main religion:Christianity") 
  
- elif input=="Norway":
+elif input=="Norway":
  print("continent:Europe       capital:Oslo      langauge:Norwegian    population:5.26 million      size:323,000 sq km    main religion:	Evangelical Lutheran Church") 
  
- elif input=="Netherlands":
+elif input=="Netherlands":
  print("continent:Europe       capital:Amsterdam      langauge:Dutch    population:17.17 million       size:41,000 sq km     main religion:Christianity") 
  
- elif input=="New Zealand":
+elif input=="New Zealand":
  print("continent:Australia       capital:Wellington      langauge:English    population:4.84 million      size:268,000 sq km     main religion:Christianity") 
  
- elif input=="Portugal":
+elif input=="Portugal":
  print("continent:Europe       capital:Lisbon      langauge:Portugese    population:10.34 million     size:	92,000 sq km     main religion:
  Christianity") 	
- 
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
