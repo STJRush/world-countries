@@ -6,9 +6,6 @@ print("make sure the country starts with a capital letter")
 
 input=input()
 
-if input=="Afghanistan":
- print("continent:asia       capital:Kabul        language:Dari        population:31.11 million       size:647,000 sq km       main religion:islam") 
- 
 elif input=="Argentina":
  print("continent:South America     capital:Argentina    langauge:Spanish   population:42.61 million      size:2,740,000 sq km     main religion:Christianity") 
  
