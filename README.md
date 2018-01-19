@@ -7,7 +7,7 @@ print("Make sure the country starts with a capital letter, eg.Brazil,Ireland")
 input=input()
 
 if input=="Argentina":
- print("continent:South America  //   capital:Argentina  //  langauge:Spanish  // population:42.61 million    // size:2,740,000 sq km     //   main religion:Christianity") 
+ print("continent:South America  //   capital:Buenos Aires //  langauge:Spanish  // population:42.61 million    // size:2,740,000 sq km     //   main religion:Christianity") 
  
 elif input=="Australia":
  print("continent:Australia   //    capital:Canberra   //   langauge:english  //  population:22.26 million   //   size:7,750,000 sq km    // main religion:Christianity") 
