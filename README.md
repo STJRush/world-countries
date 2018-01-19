@@ -71,8 +71,9 @@ elif input=="Greece":
  elif input=="New Zealand":
  print("continent:Australia       capital:Wellington      langauge:English    population:4.84 million      size:268,000 sq km     main religion:Christianity") 
  
- elif input=="":
- print("continent:       capital:      langauge:    population:      size:     main religion:") 
+ elif input=="Portugal":
+ print("continent:Europe       capital:Lisbon      langauge:Portugese    population:10.34 million     size:	92,000 sq km     main religion:
+ Christianity") 	
  
  elif input=="":
  print("continent:       capital:      langauge:    population:      size:     main religion:") 
