@@ -25,18 +25,18 @@ elif input=="China":
  
   
 elif input=="Denmark":
- print("continent:Europe   //    capital:Copenhagen    //   langauge:Danish   //  population:5.74 million   //   size:42,000 sq km     //   main religion:Church of Denmark") 
+ print("continent:Europe   //    capital:Copenhagen    //   langauge:Danish   //  population:5.74 million   //   size:42,000 sq km     //   main religion:Christianity") 
  
   
 elif input=="England":
- print("continent:Europe   //    capital:London   //    langauge:English  //   population:55.26 million     //   size:130,000 sq km     //    main religion:Church of England") 
+ print("continent:Europe   //    capital:London   //    langauge:English  //   population:55.26 million     //   size:130,000 sq km     //    main religion:Christianity") 
  
   
 elif input=="France":
  print("continent:Europe   //    capital:Paris   //    langauge:French   //  population:67.2 million  //   size:640,000 sq km   //  main religion:Christianity") 
 
 elif input=="Greece":
- print("continent:Greece   //    capital:Athens   //   langauge:Greek  //  population:11.18 million   //    size:131,000 sq km  //   main religion:	Eastern Orthodoxy") 
+ print("continent:Greece   //    capital:Athens   //   langauge:Greek  //  population:11.18 million   //    size:131,000 sq km  //   main religion:	Christianity") 
  
 elif input=="Germany":
  print("continent:Europe   //    capital:Berlin   //   langauge:German  //  population: 82.34 million   //   size:	357,000 sq km     //    main religion:Christianity") 
@@ -60,7 +60,7 @@ elif input=="Mexico":
  print("continent:North America   //    capital:Mexico city  //    langauge:Spanish   //    population:	123.67 million     // size:1,972,000 sq km  //   main religion:Christianity") 
  
 elif input=="Norway":
- print("continent:Europe   //    capital:Oslo   //   langauge:Norwegian  //   population:5.26 million   //   size:323,000 sq km  //  main religion:	Evangelical Lutheran Church") 
+ print("continent:Europe   //    capital:Oslo   //   langauge:Norwegian  //   population:5.26 million   //   size:323,000 sq km  //  main religion:	Christianity") 
  
 elif input=="Netherlands":
  print("continent:Europe   //    capital:Amsterdam   //   langauge:Dutch  //  population:17.17 million   //    size:41,000 sq km     //   main religion:Christianity") 
@@ -70,3 +70,15 @@ elif input=="New Zealand":
  
 elif input=="Portugal":
  print("continent:Europe  //     capital:Lisbon   //   langauge:Portugese  //   population:10.34 million  //   size:	92,000 sq km       //  main religion:Christianity") 	
+
+elif input=="Spain":
+ print("continent:Europe  //     capital:Madrid   //   langauge:Spanish  //   population:46.73 million  //   size:505,000 sq km	       //  main religion:Christianity") 
+ 
+elif input=="Switzerland":
+ print("continent:Europe  //     capital:Bern   //   langauge:German  //   population:8.41 million //   size:41,000 sq km	     //  main religion:Christianity")
+ 
+elif input=="Sweden":
+ print("continent:Europe  //     capital:Stockholm   //   langauge:Swedish  //   population:10.12 million  //   size:450,000 sq km 	       //  main religion:Christianity")
+ 
+elif input=="United States" or input=="Usa" or input=="USA" or input=="America":
+ print("continent:North America    //     capital:Washington D.C     //     langauge:English    //     population:450.29 million    //   size:3,796,000 km sq 	     //    main religion:Christianity") 
