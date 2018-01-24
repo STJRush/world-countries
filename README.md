@@ -10,10 +10,10 @@ if input=="Argentina":
  print("continent:South America  //   capital:Buenos Aires //  langauge:Spanish  // population:42.61 million    // size:2,740,000 sq km     //   main religion:Christianity") 
  
 elif input=="Australia":
- print("continent:Australia   //    capital:Canberra   //   langauge:english  //  population:22.26 million   //   size:7,750,000 sq km    // main religion:Christianity") 
+ print("continent:Australia   //    capital:Canberra   //   langauge:english  //  population:22.26 million   //   size:7,750,000 sq km   // main religion:Christianity") 
  
 elif input=="Belgium":
- print("continent:Europe    //   capital:Brussels    //   langauge:French  //   population:10.47 million   //   size:30,000 sq km     //   main religion:Christianity") 
+ print("continent:Europe    //   capital:Brussels   //   langauge:French  //   population:10.47 million   //   size:30,000 sq km    //   main religion:Christianity") 
  
  
 elif input=="Brazil":
@@ -21,7 +21,7 @@ elif input=="Brazil":
  
   
 elif input=="China":
- print("continent:Asia    //   capital:	Beijing    //   langauge:Chinese  //   population:1.4 billion   //   size:9,596,000 sq km     //    main religion:Chinese folk religion") 
+ print("continent:Asia    //   capital:	Beijing    //   langauge:Chinese  //   population:1.4 billion   //   size:9,596,000 sq km     //   main religion:Chinese folk religion") 
  
   
 elif input=="Denmark":
@@ -29,7 +29,7 @@ elif input=="Denmark":
  
   
 elif input=="England":
- print("continent:Europe   //    capital:London   //    langauge:English  //   population:55.26 million     //   size:130,000 sq km     //    main religion:Christianity") 
+ print("continent:Europe   //    capital:London   //    langauge:English  //   population:55.26 million     //   size:130,000 sq km    //    main religion:Christianity") 
  
   
 elif input=="France":
