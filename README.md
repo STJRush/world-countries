@@ -12,6 +12,10 @@ if input=="Argentina":
 elif input=="Australia":
  print("continent:Australia   //    capital:Canberra   //   langauge:english  //  population:22.26 million   //   size:7,750,000 sq km   // main religion:Christianity") 
  
+ if input=="Austria":
+ print("continent:Europe  //   capital:Vienna //  langauge:German  // population:8.8 million   // size:83,ooo  sq km     //   main religion:Christianity") 
+ 
+ 
 elif input=="Belgium":
  print("continent:Europe    //   capital:Brussels   //   langauge:French  //   population:10.47 million   //   size:30,000 sq km    //   main religion:Christianity") 
  
